@@ -3,3 +3,7 @@
 ################################################################################
 
 *.suo
+/obj
+/.vs
+/bin/Debug/netcoreapp2.1
+/FromScratchToWeb.csproj.user
